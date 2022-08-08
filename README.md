@@ -2,11 +2,11 @@
 
 <div align="left">
 
-[![Instagram](https://img.shields.io/badge/AminKavari-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rzashakeri/)
-[![Twitter](https://img.shields.io/badge/AminKavari-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/rzashakeri/)
-[![Linkedin](https://img.shields.io/badge/AminKavari-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rzashakeri//)
-[![github](https://img.shields.io/badge/AminKavari-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rzashakeri/)
-[![telegram](https://img.shields.io/badge/AminKavari-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzashakeri/)
+[![Instagram](https://img.shields.io/badge/AminKavari-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aminonthebeat/)
+[![Twitter](https://img.shields.io/badge/AminKavari-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/aminonthebeat/)
+[![Linkedin](https://img.shields.io/badge/AminKavari-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aminkavari//)
+[![github](https://img.shields.io/badge/AminKavari-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aminkavari/)
+[![telegram](https://img.shields.io/badge/AminKavari-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aminkavari/)
 ![](https://komarev.com/ghpvc/?username=AminKavari&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
  
