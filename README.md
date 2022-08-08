@@ -1,14 +1,11 @@
 <img src="https://raw.githubusercontent.com/AminKavari/AminKavari/main/intro.gif" alt="👋 Hi there! I'm Amin" title="👋 Hi there! I'm Amin"/>
 
-<div align="left">
 
-![](https://komarev.com/ghpvc/?username=AminKavari&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
-
- 
-</div>  
 <p align="justify"> 
 Hello 🖐️ friends, welcome to my github
-My name is Amin Kavari and I tried most of the programming fields such as game development, mobile application development, web design and development, etc. and finally I was able to reach my interest, which is web design and development. Almost 10 years have passed since then. I am coding and now I am a computer engineering student ![](https://komarev.com/ghpvc/?username=AminKavari&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)</p>
+My name is Amin Kavari and I tried most of the programming fields such as game development, mobile application development, web design and development, etc. and finally I was able to reach my interest, which is web design and development. Almost 10 years have passed since then. I am coding and now I am a computer engineering student</p>
+
+![](https://komarev.com/ghpvc/?username=AminKavari&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
 
 ## 🌐 Socials:
