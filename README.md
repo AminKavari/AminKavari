@@ -13,12 +13,8 @@
 </div>  
 <p align="justify"> 
 Hello 🖐️ friends, welcome to my github
-I am reza shakeri and I tried most fields of programming such as game development, mobile application development, web design and development, etc., and finally I was able to find my interest, and that was web design and development and security . It has been almost 10 years. I am coding and now I am a computer engineering student
+My name is Amin Kavari and I tried most of the programming fields such as game development, mobile application development, web design and development, etc. and finally I was able to reach my interest, which is web design and development. Almost 10 years have passed since then. I am coding and now I am a computer engineering student
 &nbsp;
-
-In addition to my personal page, you can also follow my main page called <a href="https://www.instagram.com/barnamenevisiinsta/">barnamenevisiinsta</a> on Instagram.
-</p>
-
 
 <p align="left">
 I code with :  👇
