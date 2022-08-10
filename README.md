@@ -1,5 +1,5 @@
 <p align="justify"> 
-Hello 🖐 friends, welcome to my LinkedIn. My name is Amin Kaveri and I have tried most of the programming fields such as game development, mobile application development, web design and development, etc. and finally I was able to reach my interest. To become a full stack developer. Almost a few years have passed since then. I am coding and now I am a computer engineering student.</p>
+Hello 🖐 friends, welcome to my GitHub. My name is Amin Kaveri and I have tried most of the programming fields such as game development, mobile application development, web design and development, etc. and finally I was able to reach my interest. To become a full stack developer. Almost a few years have passed since then. I am coding and now I am a computer engineering student.</p>
 
 ![](https://komarev.com/ghpvc/?username=AminKavari&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
